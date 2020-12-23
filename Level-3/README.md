@@ -1,0 +1,1 @@
+Use hashing (hash function for encryption)
